@@ -63,6 +63,9 @@ A modern, full-stack e-commerce platform built for the Sri Lankan market. Shop s
 ### Mobile Responsive
 ![Mobile View](./images/homepageMobileResponsive.png)
 
+### Admin Dashboard
+![Admin Dashboard](./images/admin-dashboard.png)
+
 ## 📚 API Documentation
 
 Interactive API documentation powered by **Swagger UI** is available at:
