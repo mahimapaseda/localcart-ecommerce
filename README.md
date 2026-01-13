@@ -329,8 +329,18 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Mahima Paseda Kusumsiri**
 
-- 🌐 Portfolio: [mahimapaseda.vercel.app](https://mahimapaseda.vercel.app)
-- 💼 GitHub: [@mahimapaseda](https://github.com/mahimapaseda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahimapaseda.vercel.app-000000?style=for-the-badge&logo=vercel)](https://mahimapaseda.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-@mahimapaseda-181717?style=for-the-badge&logo=github)](https://github.com/mahimapaseda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahima_Paseda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahimapaseda/)
+[![Email](https://img.shields.io/badge/Email-mahimapasedakusumsiri@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mahimapasedakusumsiri@gmail.com)
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Portfolio** | [mahimapaseda.vercel.app](https://mahimapaseda.vercel.app) |
+| 💼 **GitHub** | [@mahimapaseda](https://github.com/mahimapaseda) |
+| 💼 **LinkedIn** | [Mahima Paseda](https://www.linkedin.com/in/mahimapaseda/) |
+| 📧 **Email** | [mahimapasedakusumsiri@gmail.com](mailto:mahimapasedakusumsiri@gmail.com) |
+| 📱 **Phone** | +94 770114407 |
 
 ---
 
