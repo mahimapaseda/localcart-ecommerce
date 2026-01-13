@@ -1,0 +1,90 @@
+/* eBay-Style Featured Grid */
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+}
+
+/* Skeleton Loading */
+.featured-skeleton {
+    background: var(--bg-card);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+}
+
+.featured-skeleton-image {
+    aspect-ratio: 1;
+}
+
+.featured-skeleton-info {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.featured-skeleton-text {
+    height: 14px;
+    border-radius: 4px;
+}
+
+.featured-skeleton-text.short {
+    width: 50%;
+}
+
+.featured-skeleton-price {
+    height: 18px;
+    width: 40%;
+    border-radius: 4px;
+}
+
+/* Empty State */
+.featured-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: var(--space-16);
+}
+
+.featured-empty-icon {
+    font-size: 3rem;
+    margin-bottom: var(--space-4);
+}
+
+.featured-empty h3 {
+    font-size: var(--font-size-lg);
+    color: var(--text-primary);
+    margin-bottom: var(--space-2);
+}
+
+.featured-empty p {
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+}
+
+/* Responsive */
+@media (max-width: 1400px) {
+    .featured-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (max-width: 1100px) {
+    .featured-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .featured-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
+
+@media (max-width: 400px) {
+    .featured-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+}

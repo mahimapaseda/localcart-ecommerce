@@ -1,0 +1,27 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 0;
+    isolation: isolate;
+}
+
+.main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+}
+
+/* Ensure Navbar and Footer are above background */
+.navbar {
+    position: relative;
+    z-index: 100;
+}
+
+.footer {
+    position: relative;
+    z-index: 1;
+}
