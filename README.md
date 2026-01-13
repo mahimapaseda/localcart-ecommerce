@@ -170,10 +170,8 @@ The platform uses **Sri Lankan Rupees (LKR/Rs.)** for all transactions.
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<p align="center">
-  Made with ❤️ for local businesses in Sri Lanka
-</p>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
