@@ -70,7 +70,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <FiPhone />
-                                <span>+1 (555) 123-4567</span>
+                                <span>+94 770114407</span>
                             </li>
                             <li>
                                 <FiMail />
