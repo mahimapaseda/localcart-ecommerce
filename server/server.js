@@ -27,7 +27,7 @@ connectDB().then(() => {
 // Middleware
 app.use(cors({
     origin: process.env.NODE_ENV === 'production'
-        ? [process.env.CLIENT_URL, 'https://localcart-ecommerce.vercel.app']
+        ? [process.env.CLIENT_URL, 'https://thelocalcart.vercel.app']
         : '*',
     credentials: true
 }));

@@ -2,6 +2,9 @@
 
 A modern, full-stack e-commerce platform built for the Sri Lankan market. Shop smart, shop local!
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-thelocalcart.vercel.app-00C7B7?style=for-the-badge&logo=vercel)](https://thelocalcart.vercel.app/)
+[![API Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger)](https://localcart-ecommerce.onrender.com/api-docs)
+
 ![Homepage](./images/homepage-hero.png)
 
 ## ✨ Features
@@ -93,8 +96,8 @@ http://localhost:5000/api-docs
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/e-commerce.git
-   cd e-commerce
+   git clone https://github.com/mahimapaseda/localcart-ecommerce.git
+   cd localcart-ecommerce
    ```
 
 2. **Install server dependencies**
